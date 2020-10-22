@@ -1,2 +1,1 @@
-# Mario_Go
-Mario_Go
+A perfect game for mario lovers
